@@ -1,0 +1,4535 @@
+fileFormatVersion: 2
+guid: 3834db0324ba90c4da914d2f133078a9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a01629ad18a3f84f960cbeb061bd88c
+      internalID: -739810744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ffda5c6d8aaa640a5a02b47be95fe2
+      internalID: 761667292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3121882ffb93d324a82952d69c8a4798
+      internalID: -432809485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985158772ea538246b235affe1a4ce2b
+      internalID: 1612586087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a55cfd053c858440b38c98a9da66a46
+      internalID: -526658383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916fa10af0bf9141ab47adfb334d95c
+      internalID: -1173169367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b196845201ee44e48ab31a7623b190a0
+      internalID: -1200213987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360dc271082173d41a61854943dad1b4
+      internalID: -871629562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59160ae174f0f3a45895204a0d56d9f1
+      internalID: -292959921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252e1b11c5253204185876fa19a4fe8f
+      internalID: 21818978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13db7a805dda5b44faa88927fbb63a65
+      internalID: -1947218876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f82b68ab371764e8b1fed9ea28d617
+      internalID: -686365188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14dd85c1e129004a9b199d72ccf7d96
+      internalID: 1739425106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_13
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0832c6bb7e00634ab3a2290d979f3c2
+      internalID: -1142857625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2858fb95d3154648be9082f0f0e52dd
+      internalID: -1270457501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77668435b2398d45a7e0fa1a27171f2
+      internalID: -1637534127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d7ac4a8e0979f4ea24ee1bb1112e7a
+      internalID: -932840895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_17
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f57e0c3210754daedd03f178f3a3f
+      internalID: 503818959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_18
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3d71a3ea4f2348b2cfdb9a49c37ad
+      internalID: -1642128558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_19
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7684ec05fd9ece458328ffa29f341d1
+      internalID: -756617870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_20
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4ed0b5ff70f5c4cbf1cb94e1d1eebc
+      internalID: -1185007449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_21
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06b8c7a64ff5045a6ba0132634d7f3
+      internalID: 40431489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_22
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c7d78b78d9854da8b40d3b54591eb
+      internalID: 1333591331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_23
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc0520a3069ba4582721188c166c7a
+      internalID: 1089013205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_24
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c64e86444cc1064491f7d3013b4d835
+      internalID: -1080153967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_25
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0538edf58aa84d87fcd0ccc635d03
+      internalID: -2070484417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_26
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88580d9002b576144bf4ea4e295d2675
+      internalID: -890430594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_27
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24f4318ad63b2247932637f0ab6b21d
+      internalID: -871596241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_28
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a0d7d941ef70499f65ebbf8bed60b
+      internalID: -1586116637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_29
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867e57f8532c0c54c828b4d17a7914ed
+      internalID: -1303473290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_30
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aaedc2167803d47ac5e41e38642358
+      internalID: 438000136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_31
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3656e9123eb72479051675bb4293ab
+      internalID: -1474322149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_32
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef01165b9857544ab1585286272f253
+      internalID: 1219139755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_33
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578e78c4d71794b449dff04149452252
+      internalID: 343775228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_34
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ef343384a59cf47a28ba409dda5707
+      internalID: 41623937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_35
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4050134f77a0a44be4f220a0b760f8
+      internalID: 2093644100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_36
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf28173cf0531d45832df5ee5530e72
+      internalID: 2051014863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_37
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860d75960a80aad4b91d2cfdefaaf645
+      internalID: -815803575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_38
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b70f17062e49484ebf5d543953fb271
+      internalID: -1108804620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_39
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9246a2c039867d4faefb96ff6ced53e
+      internalID: 1234237246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_40
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047d6405b10a0914998b0d70d0ba5c5d
+      internalID: 1222018499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_41
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751ba5ab769d13047bf84f4d1255af33
+      internalID: -1632876530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_42
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66d17b9462d244d931715e4c437a55
+      internalID: 1847135267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_43
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94268b3bdfe3ee945863cf1a95fa9c83
+      internalID: 747742736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_44
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5465ebc78b793034f948e005a677887b
+      internalID: 2073160280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_45
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b3c75f59982124e8ea30c4b88eb992
+      internalID: 153023807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_46
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d3b203a5a3594cb048bc2cc5300c1
+      internalID: 1199823922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_47
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84048f67b16b3a4fa5fb9c8cee4521b
+      internalID: 1301180263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_48
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ae01077942d3b4bb36ebf75ca45f60
+      internalID: 920407215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_49
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b900160f5ddcfe4598ee60acae6c14a
+      internalID: 1493541527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_50
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5ad8f4ac937a746ada318edde8e462
+      internalID: -1575830098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_51
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fcf43e856ef1240b8551244fec1f7e
+      internalID: -354292966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_52
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c3f572efeacdd4a845a5693d60d344
+      internalID: 937231439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_53
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e025d5372bf184342836a41d2d7698cf
+      internalID: -194446100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_54
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a67ae1f0b373419c31fb33f233a10
+      internalID: 1254402269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_55
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a668de70463c9e4fbe7f1b430e100cd
+      internalID: 879287875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_56
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae569341af0a5784f8db9e9daba6bbfb
+      internalID: 2101025393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_57
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0554ba4996acaac4a811068930886802
+      internalID: 1314978784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_58
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e909e61a8d00b449b67b1917744fc7e
+      internalID: 1969764739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_59
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a326ab4c48d9fec4a91202791a48bbdc
+      internalID: -2024128331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_60
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d594ae1aad33da4da14e9b338866ee5
+      internalID: -351630646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_61
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8b7fea422dd8e4ea91a7c7286d5192
+      internalID: -1127198984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_62
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483fa378302622f40b72940a27a4f2e9
+      internalID: 397151181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_63
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 164
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72f0a9d485cf2f4785009fabf140ef9
+      internalID: 993483416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aaefcbfc0f50142b769d76ba96d952
+      internalID: -614085319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcbe9ccb97e9014db35623b08fa23a0
+      internalID: -1697832214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c3d2b7fe85bd49b32ada3865c7cf1
+      internalID: -2107049813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be36ab5b26d8a95469620afc1b51c069
+      internalID: 1557184898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961c4c179f8114049a38c56e05563b2e
+      internalID: -1984879039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_69
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe158fc5cef69f42abaf6a2205fe634
+      internalID: 909258275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_70
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7448ce5d5091e4887cb4a51d35c497
+      internalID: -1320872702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_71
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02969e93f97dc3443a48b095de7abaa8
+      internalID: 942763325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173f31c3edec0c74a9f0b8ec07f736d9
+      internalID: -2146520823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_73
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37006c0d333195640a505aae9d8dc8c4
+      internalID: 1362385149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273fc2dc912dc2947a21ccbabd170634
+      internalID: -214036341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_75
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb2ad3aae9635442820e3aa9546b11c
+      internalID: 747242528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a69e104b2f5c0f49b0277fa5dc8124c
+      internalID: -125891305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_77
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740ab0c869e189044895b2db912579d7
+      internalID: -2067935536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_78
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee780b43ad61834ebcd2dde48f56446
+      internalID: 1690938728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_79
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8393989fc8fc2934885b56d82798a4a8
+      internalID: -1576469970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_80
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a519182b31d3d8d4e92279720b39494e
+      internalID: -1852149433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_81
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40dad843a3cf6948b02b516b4acb3af
+      internalID: 337012473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_82
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec923a99980efab428dd022c842f3822
+      internalID: 648629749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_83
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe5020dd4a68084b9d91b7deb549d2d
+      internalID: -1843973926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_84
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931ebe8f026a5824880e770d2d31d3b4
+      internalID: -748671577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_85
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cf239ac5530414ebef852e18668f19
+      internalID: -2013325255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_86
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90bd7b8f8b5df44d8a80132f924e62f
+      internalID: 1042412039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_87
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9ff2e116fa1b4aad28533f3efa6db
+      internalID: -808286745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_88
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263a7bb6b79aee749946675fb140ffb0
+      internalID: -1207651169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_89
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d3b6ef9d759944d8cc689d21081412
+      internalID: 1128883363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_90
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f020428714b443a608e662c5982af
+      internalID: -49821771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_91
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0577e4f8737944d817c42661b6e588
+      internalID: -619201229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_92
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02357b3a23948d499e3456815192d88
+      internalID: -1399503241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_93
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6fa9946f2a50f4baf979132a2b4275
+      internalID: 1853227895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_94
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c96f0855227249af77d8a427884ad
+      internalID: 184447249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_95
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d5a97f573c8e4698b884bef1a8fe6
+      internalID: -1578123542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_96
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f49fa9830120e4caacc05ef3ca91e4
+      internalID: 103098054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_97
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912c9199986399144bdb5bb1a002160c
+      internalID: -1573128382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_98
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b71c37f12bb7040b37ea56fa27d810
+      internalID: -678213734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_99
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d92bcfa58be934b88452971f922a24
+      internalID: -1825597915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_100
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c58402f560c8ff4791b79bdfa32db5c
+      internalID: 1594111240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_101
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f840bac67e20e946b0a2d8717e6d32c
+      internalID: -1319538696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_102
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5078ff22bb75900489eae3d1e2a3cacb
+      internalID: 2047442316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_103
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc6bd2e40c83294dafb5269a8656571
+      internalID: -1696937111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_104
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e053b8950e093f0469cd2d6835c62edf
+      internalID: -664861317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_105
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c555abc56d08444b545dbe05cc490e
+      internalID: -812983226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_106
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919311913cf927b499d50d10ca35337f
+      internalID: 2129399495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_107
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe70549522246943a1527b97261314d
+      internalID: 1375223876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_108
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02d0c66c400b24b9c604b33aa9879c
+      internalID: 131815543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_109
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b057cd2ee79c45b70208b427bfc72
+      internalID: 1508237684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_110
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab58f2e03eccd429c6e451c9809fd1
+      internalID: -1787846839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_111
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89da331a20d7d94087453b2ebd84f14
+      internalID: 1607940677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_112
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd834f23e0d0f0c438b70202540cacd6
+      internalID: -1666612605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_113
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18541b52934cfe40bdca26e25656d8a
+      internalID: -1827045045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_114
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938a465fe9f0df4c94d6215fbee97b7
+      internalID: 1069536126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_115
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c59db33e3195145a79183d861ebe29
+      internalID: 1474458018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_116
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e7a2fccb68cba44b708a3939cbee16
+      internalID: 1447685027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_117
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab79fc4106691947bcb196805596382
+      internalID: 909934466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_118
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d2afa597c992b4a832b24f4736ac6d
+      internalID: 1880730916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_119
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718740dea9635084299a4ed56d191292
+      internalID: 439612661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_120
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13810c624a8d0484094059ef11067ff3
+      internalID: -256159744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_121
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47785ebcd5db27c4e8b1317e6b335dbb
+      internalID: -928298919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_122
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6cb7da110d18846a32338b90bb09ab
+      internalID: -1588884922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_123
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0a0b30d61c9574684c1a7602e930e7
+      internalID: -783027885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_124
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a7de7a3115fe44587c2ceb12e6a645
+      internalID: -101921247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_125
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28412bd69e70d44478d18c14165ec2e2
+      internalID: 25654001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_126
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b025ae3f079774f95fe654cc7798cd
+      internalID: -1598664772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_127
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 83
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88821c303c6ec3f45b8b8e634325939d
+      internalID: 721744998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de42bb81569f242b270fc5f6807da7
+      internalID: 585881355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_129
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf38017db274b994caa4544cf0d60140
+      internalID: 89822599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_130
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720180cbeecf82b44b178baf827677fa
+      internalID: -312587575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_131
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd1fed3ed3aa8f43a6fecafc29cd995
+      internalID: -1826006787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_132
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8675e67d27d5f4cb62706de74c5328
+      internalID: -546314294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_133
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137d3ed223ea3a94db6039d0935a9423
+      internalID: 961133727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_134
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1396de8b3a5b7ae409a0646f1ec32418
+      internalID: -633916993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_135
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72887b4f41fbc23468a66d540342b287
+      internalID: 340478161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67a599521f68df4bb820e32f5d55ec8
+      internalID: -1900996202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_137
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96cbd66a33b41944b977ac5729a1eb8
+      internalID: -2049237397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_138
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d42f62f1f056a458c47bc37be045a8
+      internalID: -359972580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_139
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fb49f5ceaf99c418bd699a7c06348b
+      internalID: -630435397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_140
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c9af7392aa9141adb7825d92978ab
+      internalID: -1857131008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_141
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d67f7dcde185b4db98864a69915635
+      internalID: -1034587975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_142
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220954a0cec566641812e928c9895b74
+      internalID: 570596687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_143
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd7faad9842d3a44b05775ebb53e136
+      internalID: -975394965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_144
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290d7172845b1c949960d29d2c68eb18
+      internalID: -1718129275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_145
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbeff5ce0acb724cbbb5c0dfb8e28ca
+      internalID: -73296379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_146
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1c48f54f7ff504c9d378538b818117
+      internalID: -1271882520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_147
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b21ebefa54eb40b350bcb15388f4a
+      internalID: -1450696391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_148
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c01020558b404bb882d708a2aadaf
+      internalID: 1990495542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_149
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c9eb22a30e57142bc5a7eacc4be66a
+      internalID: -302533426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_150
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2513efef01827dd41ab9ab0dacdddcfe
+      internalID: -1929178243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_151
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d034a49c70807468f18b28eefacfba
+      internalID: 1211973744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_152
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef38bdb17177f648a101f15089b02dc
+      internalID: -1717400709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_153
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05c60e4af7a61143ade72aec6ac1b51
+      internalID: -906715745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_154
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903580e6a13f2d74abce2653ce07dfe6
+      internalID: 1499640617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_155
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93675f2103033c4c8861fb1cbb480ae
+      internalID: -1984504745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_156
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55c8e470d1d6a1439ca986c501b046e
+      internalID: 907314773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_157
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723248fa3420b10449aabd31221dbd1a
+      internalID: 891681790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_158
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62735897b359a174aa5bfa10e10e2f5e
+      internalID: -542701535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_159
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306aa9c3e14530a4e86a5786482494e3
+      internalID: -1264319125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_160
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21612ef19f7f6b6468a96074305a2ea2
+      internalID: -886517826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_161
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a509d0b11fdb1b408eab0f8014d3831
+      internalID: 1468300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_162
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e77ba12eca14438ff2c2e74c85ae0
+      internalID: -1388899617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_163
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff3bd29f889996409abaabbd6243938
+      internalID: -1987886437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_164
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2270793824503a04d95e9a84246665a9
+      internalID: -1365039997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_165
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3091a984b5dcff345b1b633a8c48f799
+      internalID: 2041204333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_166
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed87bf092184b954ea8478aeef3739a6
+      internalID: 1855399708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_167
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4732cb3ec4fd6244a94346f1487626d1
+      internalID: -847388818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_168
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801d569523344b4459a702ad55f4d09e
+      internalID: -61179250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_169
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d58d3f70c516b24a9d361909be6a374
+      internalID: -1823113617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_170
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ed5e5fbd742e4d894467b583319d9
+      internalID: 1018914813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_171
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423ed4b544e6704449abf19df43411ed
+      internalID: 220152763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_172
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d8d69d0fe895c439a4a583f922e305
+      internalID: -1881816975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_173
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af28e4841d8fa4ab8d57a2795212fc
+      internalID: -771239051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_174
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b850fac6ea6776499fc22064df57fe7
+      internalID: -237838233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_175
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2f55b72a7560447ae6a8b39965eb32
+      internalID: 316958140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_176
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951c7089860edd342b656d5d3b08028e
+      internalID: 479648588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_177
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4241903c26f7b1044ab3f48e36844a2e
+      internalID: -1657284687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_178
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abddec6a840c1e54b96dcd6b18220525
+      internalID: -1204164524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_179
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e817540854ea39543a9ef2751f206ee9
+      internalID: -1309803371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_180
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d2561c39dfd824ba51c8ebb7d854f2
+      internalID: 1022874243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_181
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba53b854c4c1b44c9673bbbbd985c18
+      internalID: -1892553857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_182
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16816ed3bd1af4645909e32573c67827
+      internalID: -1181794792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_183
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb487b828d4dd3438b1b56d88c02758
+      internalID: -1259662157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_184
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a25cf0af7cb1b46bae665b15a838c3
+      internalID: -1367842836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_185
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bf88d596276334b9a4901529457ab5
+      internalID: 924683432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_186
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756518a1b07891349a41677638fa0d0f
+      internalID: -167699914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_187
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6d8078a94873e4a839e4be032fda66
+      internalID: 1117912625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_188
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6fc940bb0d0d48b9f1860bd756be8
+      internalID: -1187020848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_189
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e2989d451338c4597433002e540191
+      internalID: 1700876348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_190
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f7d835678d2c841851536435e51120
+      internalID: -625369605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Contra - Stages - Stage 1_191
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 2
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96b90edfa2ac80439838d6e48535de5
+      internalID: -440123322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b6c8879175654f5498b6262767ae1d4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":64.0,"y":3.0},"gridSpriteSize":{"x":54.0,"y":81.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      NES - Contra - Stages - Stage 1_0: -739810744
+      NES - Contra - Stages - Stage 1_1: 761667292
+      NES - Contra - Stages - Stage 1_10: -1947218876
+      NES - Contra - Stages - Stage 1_100: 1594111240
+      NES - Contra - Stages - Stage 1_101: -1319538696
+      NES - Contra - Stages - Stage 1_102: 2047442316
+      NES - Contra - Stages - Stage 1_103: -1696937111
+      NES - Contra - Stages - Stage 1_104: -664861317
+      NES - Contra - Stages - Stage 1_105: -812983226
+      NES - Contra - Stages - Stage 1_106: 2129399495
+      NES - Contra - Stages - Stage 1_107: 1375223876
+      NES - Contra - Stages - Stage 1_108: 131815543
+      NES - Contra - Stages - Stage 1_109: 1508237684
+      NES - Contra - Stages - Stage 1_11: -686365188
+      NES - Contra - Stages - Stage 1_110: -1787846839
+      NES - Contra - Stages - Stage 1_111: 1607940677
+      NES - Contra - Stages - Stage 1_112: -1666612605
+      NES - Contra - Stages - Stage 1_113: -1827045045
+      NES - Contra - Stages - Stage 1_114: 1069536126
+      NES - Contra - Stages - Stage 1_115: 1474458018
+      NES - Contra - Stages - Stage 1_116: 1447685027
+      NES - Contra - Stages - Stage 1_117: 909934466
+      NES - Contra - Stages - Stage 1_118: 1880730916
+      NES - Contra - Stages - Stage 1_119: 439612661
+      NES - Contra - Stages - Stage 1_12: 1739425106
+      NES - Contra - Stages - Stage 1_120: -256159744
+      NES - Contra - Stages - Stage 1_121: -928298919
+      NES - Contra - Stages - Stage 1_122: -1588884922
+      NES - Contra - Stages - Stage 1_123: -783027885
+      NES - Contra - Stages - Stage 1_124: -101921247
+      NES - Contra - Stages - Stage 1_125: 25654001
+      NES - Contra - Stages - Stage 1_126: -1598664772
+      NES - Contra - Stages - Stage 1_127: 721744998
+      NES - Contra - Stages - Stage 1_128: 585881355
+      NES - Contra - Stages - Stage 1_129: 89822599
+      NES - Contra - Stages - Stage 1_13: -1142857625
+      NES - Contra - Stages - Stage 1_130: -312587575
+      NES - Contra - Stages - Stage 1_131: -1826006787
+      NES - Contra - Stages - Stage 1_132: -546314294
+      NES - Contra - Stages - Stage 1_133: 961133727
+      NES - Contra - Stages - Stage 1_134: -633916993
+      NES - Contra - Stages - Stage 1_135: 340478161
+      NES - Contra - Stages - Stage 1_136: -1900996202
+      NES - Contra - Stages - Stage 1_137: -2049237397
+      NES - Contra - Stages - Stage 1_138: -359972580
+      NES - Contra - Stages - Stage 1_139: -630435397
+      NES - Contra - Stages - Stage 1_14: -1270457501
+      NES - Contra - Stages - Stage 1_140: -1857131008
+      NES - Contra - Stages - Stage 1_141: -1034587975
+      NES - Contra - Stages - Stage 1_142: 570596687
+      NES - Contra - Stages - Stage 1_143: -975394965
+      NES - Contra - Stages - Stage 1_144: -1718129275
+      NES - Contra - Stages - Stage 1_145: -73296379
+      NES - Contra - Stages - Stage 1_146: -1271882520
+      NES - Contra - Stages - Stage 1_147: -1450696391
+      NES - Contra - Stages - Stage 1_148: 1990495542
+      NES - Contra - Stages - Stage 1_149: -302533426
+      NES - Contra - Stages - Stage 1_15: -1637534127
+      NES - Contra - Stages - Stage 1_150: -1929178243
+      NES - Contra - Stages - Stage 1_151: 1211973744
+      NES - Contra - Stages - Stage 1_152: -1717400709
+      NES - Contra - Stages - Stage 1_153: -906715745
+      NES - Contra - Stages - Stage 1_154: 1499640617
+      NES - Contra - Stages - Stage 1_155: -1984504745
+      NES - Contra - Stages - Stage 1_156: 907314773
+      NES - Contra - Stages - Stage 1_157: 891681790
+      NES - Contra - Stages - Stage 1_158: -542701535
+      NES - Contra - Stages - Stage 1_159: -1264319125
+      NES - Contra - Stages - Stage 1_16: -932840895
+      NES - Contra - Stages - Stage 1_160: -886517826
+      NES - Contra - Stages - Stage 1_161: 1468300266
+      NES - Contra - Stages - Stage 1_162: -1388899617
+      NES - Contra - Stages - Stage 1_163: -1987886437
+      NES - Contra - Stages - Stage 1_164: -1365039997
+      NES - Contra - Stages - Stage 1_165: 2041204333
+      NES - Contra - Stages - Stage 1_166: 1855399708
+      NES - Contra - Stages - Stage 1_167: -847388818
+      NES - Contra - Stages - Stage 1_168: -61179250
+      NES - Contra - Stages - Stage 1_169: -1823113617
+      NES - Contra - Stages - Stage 1_17: 503818959
+      NES - Contra - Stages - Stage 1_170: 1018914813
+      NES - Contra - Stages - Stage 1_171: 220152763
+      NES - Contra - Stages - Stage 1_172: -1881816975
+      NES - Contra - Stages - Stage 1_173: -771239051
+      NES - Contra - Stages - Stage 1_174: -237838233
+      NES - Contra - Stages - Stage 1_175: 316958140
+      NES - Contra - Stages - Stage 1_176: 479648588
+      NES - Contra - Stages - Stage 1_177: -1657284687
+      NES - Contra - Stages - Stage 1_178: -1204164524
+      NES - Contra - Stages - Stage 1_179: -1309803371
+      NES - Contra - Stages - Stage 1_18: -1642128558
+      NES - Contra - Stages - Stage 1_180: 1022874243
+      NES - Contra - Stages - Stage 1_181: -1892553857
+      NES - Contra - Stages - Stage 1_182: -1181794792
+      NES - Contra - Stages - Stage 1_183: -1259662157
+      NES - Contra - Stages - Stage 1_184: -1367842836
+      NES - Contra - Stages - Stage 1_185: 924683432
+      NES - Contra - Stages - Stage 1_186: -167699914
+      NES - Contra - Stages - Stage 1_187: 1117912625
+      NES - Contra - Stages - Stage 1_188: -1187020848
+      NES - Contra - Stages - Stage 1_189: 1700876348
+      NES - Contra - Stages - Stage 1_19: -756617870
+      NES - Contra - Stages - Stage 1_190: -625369605
+      NES - Contra - Stages - Stage 1_191: -440123322
+      NES - Contra - Stages - Stage 1_2: -432809485
+      NES - Contra - Stages - Stage 1_20: -1185007449
+      NES - Contra - Stages - Stage 1_21: 40431489
+      NES - Contra - Stages - Stage 1_22: 1333591331
+      NES - Contra - Stages - Stage 1_23: 1089013205
+      NES - Contra - Stages - Stage 1_24: -1080153967
+      NES - Contra - Stages - Stage 1_25: -2070484417
+      NES - Contra - Stages - Stage 1_26: -890430594
+      NES - Contra - Stages - Stage 1_27: -871596241
+      NES - Contra - Stages - Stage 1_28: -1586116637
+      NES - Contra - Stages - Stage 1_29: -1303473290
+      NES - Contra - Stages - Stage 1_3: 1612586087
+      NES - Contra - Stages - Stage 1_30: 438000136
+      NES - Contra - Stages - Stage 1_31: -1474322149
+      NES - Contra - Stages - Stage 1_32: 1219139755
+      NES - Contra - Stages - Stage 1_33: 343775228
+      NES - Contra - Stages - Stage 1_34: 41623937
+      NES - Contra - Stages - Stage 1_35: 2093644100
+      NES - Contra - Stages - Stage 1_36: 2051014863
+      NES - Contra - Stages - Stage 1_37: -815803575
+      NES - Contra - Stages - Stage 1_38: -1108804620
+      NES - Contra - Stages - Stage 1_39: 1234237246
+      NES - Contra - Stages - Stage 1_4: -526658383
+      NES - Contra - Stages - Stage 1_40: 1222018499
+      NES - Contra - Stages - Stage 1_41: -1632876530
+      NES - Contra - Stages - Stage 1_42: 1847135267
+      NES - Contra - Stages - Stage 1_43: 747742736
+      NES - Contra - Stages - Stage 1_44: 2073160280
+      NES - Contra - Stages - Stage 1_45: 153023807
+      NES - Contra - Stages - Stage 1_46: 1199823922
+      NES - Contra - Stages - Stage 1_47: 1301180263
+      NES - Contra - Stages - Stage 1_48: 920407215
+      NES - Contra - Stages - Stage 1_49: 1493541527
+      NES - Contra - Stages - Stage 1_5: -1173169367
+      NES - Contra - Stages - Stage 1_50: -1575830098
+      NES - Contra - Stages - Stage 1_51: -354292966
+      NES - Contra - Stages - Stage 1_52: 937231439
+      NES - Contra - Stages - Stage 1_53: -194446100
+      NES - Contra - Stages - Stage 1_54: 1254402269
+      NES - Contra - Stages - Stage 1_55: 879287875
+      NES - Contra - Stages - Stage 1_56: 2101025393
+      NES - Contra - Stages - Stage 1_57: 1314978784
+      NES - Contra - Stages - Stage 1_58: 1969764739
+      NES - Contra - Stages - Stage 1_59: -2024128331
+      NES - Contra - Stages - Stage 1_6: -1200213987
+      NES - Contra - Stages - Stage 1_60: -351630646
+      NES - Contra - Stages - Stage 1_61: -1127198984
+      NES - Contra - Stages - Stage 1_62: 397151181
+      NES - Contra - Stages - Stage 1_63: 993483416
+      NES - Contra - Stages - Stage 1_64: -614085319
+      NES - Contra - Stages - Stage 1_65: -1697832214
+      NES - Contra - Stages - Stage 1_66: -2107049813
+      NES - Contra - Stages - Stage 1_67: 1557184898
+      NES - Contra - Stages - Stage 1_68: -1984879039
+      NES - Contra - Stages - Stage 1_69: 909258275
+      NES - Contra - Stages - Stage 1_7: -871629562
+      NES - Contra - Stages - Stage 1_70: -1320872702
+      NES - Contra - Stages - Stage 1_71: 942763325
+      NES - Contra - Stages - Stage 1_72: -2146520823
+      NES - Contra - Stages - Stage 1_73: 1362385149
+      NES - Contra - Stages - Stage 1_74: -214036341
+      NES - Contra - Stages - Stage 1_75: 747242528
+      NES - Contra - Stages - Stage 1_76: -125891305
+      NES - Contra - Stages - Stage 1_77: -2067935536
+      NES - Contra - Stages - Stage 1_78: 1690938728
+      NES - Contra - Stages - Stage 1_79: -1576469970
+      NES - Contra - Stages - Stage 1_8: -292959921
+      NES - Contra - Stages - Stage 1_80: -1852149433
+      NES - Contra - Stages - Stage 1_81: 337012473
+      NES - Contra - Stages - Stage 1_82: 648629749
+      NES - Contra - Stages - Stage 1_83: -1843973926
+      NES - Contra - Stages - Stage 1_84: -748671577
+      NES - Contra - Stages - Stage 1_85: -2013325255
+      NES - Contra - Stages - Stage 1_86: 1042412039
+      NES - Contra - Stages - Stage 1_87: -808286745
+      NES - Contra - Stages - Stage 1_88: -1207651169
+      NES - Contra - Stages - Stage 1_89: 1128883363
+      NES - Contra - Stages - Stage 1_9: 21818978
+      NES - Contra - Stages - Stage 1_90: -49821771
+      NES - Contra - Stages - Stage 1_91: -619201229
+      NES - Contra - Stages - Stage 1_92: -1399503241
+      NES - Contra - Stages - Stage 1_93: 1853227895
+      NES - Contra - Stages - Stage 1_94: 184447249
+      NES - Contra - Stages - Stage 1_95: -1578123542
+      NES - Contra - Stages - Stage 1_96: 103098054
+      NES - Contra - Stages - Stage 1_97: -1573128382
+      NES - Contra - Stages - Stage 1_98: -678213734
+      NES - Contra - Stages - Stage 1_99: -1825597915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
